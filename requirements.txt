@@ -1,0 +1,6 @@
+# The four mine_*.py scripts need NOTHING beyond the Python standard library (3.9+).
+# Only screen_elo_signal.py needs these:
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+statsmodels>=0.13

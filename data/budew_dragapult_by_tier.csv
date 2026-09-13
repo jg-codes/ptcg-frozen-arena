@@ -1,0 +1,5 @@
+tier,evolves when it could (%),attaches when it could (%),retreats when it could (%),attacks when it could (%),plays a card before using an ability (%),damage per attack,win rate (%),opponent rating,first attack (turn)
+T1,31.94,29.45,5.82,16.89,49.28,116.15,56.42,1190.25,4.02
+T2,34.7,26.24,5.04,16.47,39.54,123.76,50.39,1074.93,4.17
+T3,38.23,26.38,4.63,17.19,37.99,128.44,45.23,1042.49,4.48
+T4,38.22,25.97,4.46,17.29,36.19,123.74,42.26,985.49,4.45
